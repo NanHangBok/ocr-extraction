@@ -1,0 +1,2 @@
+# ocr-extraction
+ PyTesseract OCR
